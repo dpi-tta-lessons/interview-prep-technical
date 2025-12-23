@@ -1,6 +1,10 @@
 # Technical Interview Prep
 
-The technical interview is a measure of your understanding of object-oriented programming, coachability, communication, debugging, error handling, and proficiency with tools like VSCode and the terminal. 
+The technical interview is a measure of your understanding of object-oriented programming, coachability, communication, debugging, error handling, and proficiency with tools like VSCode and the terminal.
+
+<div class="alert alert-primary mt-2">
+  <a href="https://youtu.be/uITtXOERWu4" target="_blank">Video</a>
+</div>
 
 ## Structure
 
